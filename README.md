@@ -9,7 +9,7 @@
   <li>Python</li>
 </ol>
 <a>
-  <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/fa2eea53-c574-484c-9f0d-27d2de9d8b45" 'with=300" />
+  <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/fa2eea53-c574-484c-9f0d-27d2de9d8b45" with=300 />
 </a>
 
 
