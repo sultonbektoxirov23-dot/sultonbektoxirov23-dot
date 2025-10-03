@@ -9,9 +9,9 @@
   <li>Python</li>
 </ol>
 <a>
-  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2c94a714-4055-4287-92ec-457876248b3c" />
+  <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/fa2eea53-c574-484c-9f0d-27d2de9d8b45" />
 
-">
+
 </a>
 
 
