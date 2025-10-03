@@ -8,9 +8,3 @@
   <li>JavaScript</li>
   <li>Python</li>
 </ol>
-<a>
-  <img.src = 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png>
-
-</a>
-
-
