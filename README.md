@@ -9,7 +9,8 @@
   <li>Python</li>
 </ol>
 <a>
-  <img src="<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/e7cd288c-4df9-400e-b28c-5a8989290890" />
+  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2c94a714-4055-4287-92ec-457876248b3c" />
+
 ">
 </a>
 
